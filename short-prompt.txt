@@ -1,0 +1,2 @@
+Classify the requested home repair as electrical, plumbing, or roofing. Focus on the work requested. Reply with exactly one category.
+Query: {query}

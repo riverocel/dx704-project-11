@@ -1,0 +1,1 @@
+I had to utilize chatgpt to adjust the set up code for vscode as well as come with prompts that will more likely to fail and report mistakes
